@@ -5,5 +5,5 @@
  * @author Pichau
  *
  */
-module SomaNúmeros {
+module SomaNumeros {
 }
